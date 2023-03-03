@@ -54,7 +54,7 @@
     "lodash": "^3.10.1",
     "node-sass": "^3.4.2",
     "normalizr": "^1.0.0",
-    "prop-types": "^15.5.10",
+    "prop-types": "^15.8.1",
     "react": "^15.4.2",
     "react-dom": "^15.4.2",
     "react-helmet": "^5.1.3",
